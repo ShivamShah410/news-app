@@ -1,5 +1,7 @@
 Your API key is: 63f47d8fe15946588643b125fb2ac87c
 
-emdpoint : https://newsapi.org/v2/top-headlines?country=in&apiKey=63f47d8fe15946588643b125fb2ac87c
+emdpoint : 
+https://newsapi.org/v2/top-headlines?country=in&apiKey=63f47d8fe15946588643b125fb2ac87c&page=1
 
-default imageurl : https://media.istockphoto.com/photos/abstract-digital-news-concept-picture-id1290904409?b=1&k=20&m=1290904409&s=170667a&w=0&h=6khncht98kwYG-l7bdeWfBNs_GGcG1pDqzLb6ZXhh7I=
+default imageurl : 
+https://media.istockphoto.com/photos/abstract-digital-news-concept-picture-id1290904409?b=1&k=20&m=1290904409&s=170667a&w=0&h=6khncht98kwYG-l7bdeWfBNs_GGcG1pDqzLb6ZXhh7I=
